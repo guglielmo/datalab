@@ -1,2 +1,2 @@
 # datalab
-Data analysis at openpolis
+Some data analysis notebooks, mostly done at Openpolis Foundation
