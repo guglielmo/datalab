@@ -23,7 +23,7 @@ pre_window: source venv/bin/activate
 # attach: false
 
 windows:
-  - notebook: jupyter notebook
+  - notebooks: jupyter lab
   - free_shell:
     - sleep 5
 
