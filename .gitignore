@@ -13,5 +13,6 @@ __pycache__
 /bergamo/data/HBS_2018_IT_TXT/MICRODATI/PGM*
 /geojson
 /test_dash
+/keras/.env
 .idea/
 venv/
