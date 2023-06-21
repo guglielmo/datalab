@@ -1,5 +1,17 @@
 .ipynb_checkpoints
 .python-version
 .DS_Store
+__pycache__
+/arduino
+/face_detect
+/opdm
+/opdm-neo4j-sync
+/op/opp_data
+/povedu
+/bergamo/data/HBS_2018_IT_TXT/MICRODATI/HBS_Microdati_2018.txt
+/bergamo/data/HBS_2018_IT_TXT/METADATI/
+/bergamo/data/HBS_2018_IT_TXT/MICRODATI/PGM*
+/geojson
+/test_dash
 .idea/
 venv/
